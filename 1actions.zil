@@ -966,7 +966,7 @@ on the other three sides of the room." CR>
 "Unfortunately, the mirror has been destroyed by your recklessness." CR>)>)>>
 
 <GLOBAL MIRROR-MUNG <>>
-<GLOBAL LUCKY T>
+;<GLOBAL LUCKY T>
 
 <ROUTINE MIRROR-MIRROR ("AUX" (RM2 ,MIRROR-ROOM-2) L1 L2 N)
 	<COND (<AND <NOT ,MIRROR-MUNG> <VERB? RUB>>
