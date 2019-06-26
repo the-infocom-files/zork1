@@ -2,7 +2,7 @@
 ## Historical Releases
 
 | Release | Serial | Story File              | Source Files     |
-| -------:| ------ | ----------------------- | ---------------- |
+| -------:| ------:| -----------------------:| ----------------:|
 |       2 | AS000C |   [zork1-r2-sAS000C.z1] |                  |
 |       5 | XXXXXX |   [zork1-r5-sXXXXXX.z1] |                  |
 |      15 | UG3AU5 |  [zork1-r15-sUG3AU5.z2] |                  |
@@ -37,5 +37,9 @@
 ## New Releases
 
 | Release | Serial | Story File | Source Files |
-|--------:|--------|------------|--------------|
-|       1 | XXXXXX |            |              |
+| -------:| ------:| ----------:| ------------:|
+|       1 | 190624 | [zork1.z3] |     [r1.zip] |
+
+[zork1.z3]: https://github.com/the-infocom-files/zork1/releases/download/r1/zork1.z3
+
+[r1.zip]: https://github.com/the-infocom-files/zork1/archive/r1.zip
