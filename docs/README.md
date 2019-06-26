@@ -3,7 +3,7 @@
 
     | Release | Serial | Story File | Source Files |
     |--------:|--------|------------|--------------|
-    |       2 | AS000C | [zork1-r2-sAS000C.z1] | |
+    |       2 | AS000C | ["zork1-r2-sAS000C.z1"] | |
     |       5 | xxxxxx | []()       | []()         |
     |      15 | UG3AU5 | []()       | []()         |
     |      23 | 820428 | []()       | []()         |
@@ -15,7 +15,7 @@
     |      76 | 840509 | []()       | []()         |
     |      88 | 840726 | []()       | []()         |
 
-[zork1-r2-sAS000C.z1]: https://eblong.com/infocom/gamefiles/zork1-r2-sAS000C.z1
+["zork1-r2-sAS000C.z1"]: https://eblong.com/infocom/gamefiles/zork1-r2-sAS000C.z1
 
 ## New Releases
 
