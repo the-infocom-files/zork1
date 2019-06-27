@@ -18,7 +18,7 @@
 ## New Releases
 
 | Release | Serial | Story File | Source Files |
-| -------:| ------:| ----------:| ------------:|
+| -------:|:------:|:----------:|:------------:|
 |       1 | 190624 | [zork1.z3] |     [r1.zip] |
 
 [zork1.z3]: https://github.com/the-infocom-files/zork1/releases/download/r1/zork1.z3
