@@ -2,25 +2,31 @@
 
 ----
 
+Zork I was Infocom's first IF game and was first released in 1980.
+
+Further information on Zork I:
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Zork_I)
+* [The Digital Antiquarian](https://www.filfre.net/2012/01/selling-zork/)
+* [The Interactive Fiction Database](https://ifdb.tads.org/viewgame?id=0dbnusxunq7fw5ro)
+* [The Infocom Gallery](http://gallery.guetech.org/zork1/zork1.html)
+* [IFWiki](http://www.ifwiki.org/index.php/Zork_I)
+
+The following source material is available for importation. Release 119 was selected from the Zarf Sources.
+
 ## Historical Releases
 
-| Release | Serial | Story File              | Source Files     |
-| -------:|:------:|:-----------------------:|:----------------:|
-|      88 | 840726 |  [zork1-r88-s840726.z3] |  [zork1-r88.zip] |
-|     119 | 880429 | [zork1-r119-s880429.z3] | [zork1-r119.zip] |
+These contain the available source material.
+
+| Release | Serial | Story File              | Zarf Sources     | Jason Scott Sources    | Comment           |
+| -------:|:------:|:-----------------------:|:----------------:| ---------------------- | ----------------- |
+|      88 | 840726 |  [zork1-r88-s840726.z3] |  [zork1-r88.zip] | [zork1-revision-88]    | identical sources |
+|     119 | 880429 | [zork1-r119-s880429.z3] | [zork1-r119.zip] | [zork1-final-revision] | identical sources |
 
 [zork1-r88-s840726.z3]: https://eblong.com/infocom/gamefiles/zork1-r88-s840726.z3
-[zork1-r119-s880429.z3]: https://eblong.com/infocom/gamefiles/zork1-r119-s880429.z3
-
 [zork1-r88.zip]: https://eblong.com/infocom/sources/zork1-r88.zip
+[zork1-revision-88]: https://github.com/historicalsource/zork1/tree/34cc828c4fa3b5e2581ea24c43bb8acb386d25d0
+
+[zork1-r119-s880429.z3]: https://eblong.com/infocom/gamefiles/zork1-r119-s880429.z3
 [zork1-r119.zip]: https://eblong.com/infocom/sources/zork1-r119.zip
-
-## New Releases
-
-| Release | Serial | Story File | Source Files |
-| -------:|:------:|:----------:|:------------:|
-|       1 | 190624 | [zork1.z3] |     [r1.zip] |
-
-[zork1.z3]: https://github.com/the-infocom-files/zork1/releases/download/r1/zork1.z3
-
-[r1.zip]: https://github.com/the-infocom-files/zork1/archive/r1.zip
+[zork1-final-revision]: https://github.com/historicalsource/zork1/tree/87a3b787d166a441cab8d89d87f9a3753d40daa8
