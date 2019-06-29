@@ -18,10 +18,10 @@ The following source material is available for importation. Release 119 was sele
 
 These contain the available source material.
 
-| Release | Serial | Story File              | Zarf Sources     | Jason Scott Sources    | Comment           |
-| -------:|:------:|:-----------------------:|:----------------:| ---------------------- | ----------------- |
-|      88 | 840726 |  [zork1-r88-s840726.z3] |  [zork1-r88.zip] | [zork1-revision-88]    | identical sources |
-|     119 | 880429 | [zork1-r119-s880429.z3] | [zork1-r119.zip] | [zork1-final-revision] | identical sources |
+| Release | Serial | Story File              | Zarf Sources     | Jason Scott Sources    |
+| -------:|:------:|:-----------------------:|:----------------:| ---------------------- |
+|      88 | 840726 |  [zork1-r88-s840726.z3] |  [zork1-r88.zip] | [zork1-revision-88]    |
+|     119 | 880429 | [zork1-r119-s880429.z3] | [zork1-r119.zip] | [zork1-final-revision] |
 
 [zork1-r88-s840726.z3]: https://eblong.com/infocom/gamefiles/zork1-r88-s840726.z3
 [zork1-r88.zip]: https://eblong.com/infocom/sources/zork1-r88.zip
