@@ -18,15 +18,15 @@ The following source material is available for importation. Release 119 was sele
 
 These contain the available source material.
 
-| Release | Serial | Story File              | Zarf Sources     | Jason Scott Sources    |
-| -------:|:------:|:-----------------------:|:----------------:| ---------------------- |
-|      88 | 840726 |  [zork1-r88-s840726.z3] |  [zork1-r88.zip] | [zork1-revision-88]    |
-|     119 | 880429 | [zork1-r119-s880429.z3] | [zork1-r119.zip] | [zork1-final-revision] |
+| Release | Serial | Story File        | Zarf Sources | Jason Scott Sources |
+| -------:|:------:|:-----------------:|:------------:| ------------------- |
+|      88 | 840726 |  [r88-s840726-z3] |    [r88-zip] |       [revision-88] |
+|     119 | 880429 | [r119-s880429-z3] |   [r119-zip] |    [final-revision] |
 
-[zork1-r88-s840726.z3]: https://eblong.com/infocom/gamefiles/zork1-r88-s840726.z3
-[zork1-r88.zip]: https://eblong.com/infocom/sources/zork1-r88.zip
-[zork1-revision-88]: https://github.com/historicalsource/zork1/tree/34cc828c4fa3b5e2581ea24c43bb8acb386d25d0
+[r88-s840726-z3]: https://eblong.com/infocom/gamefiles/zork1-r88-s840726.z3
+[r88-zip]: https://eblong.com/infocom/sources/zork1-r88.zip
+[revision-88]: https://github.com/historicalsource/zork1/tree/34cc828c4fa3b5e2581ea24c43bb8acb386d25d0
 
-[zork1-r119-s880429.z3]: https://eblong.com/infocom/gamefiles/zork1-r119-s880429.z3
-[zork1-r119.zip]: https://eblong.com/infocom/sources/zork1-r119.zip
-[zork1-final-revision]: https://github.com/historicalsource/zork1/tree/87a3b787d166a441cab8d89d87f9a3753d40daa8
+[r119-s880429-z3]: https://eblong.com/infocom/gamefiles/zork1-r119-s880429.z3
+[r119-zip]: https://eblong.com/infocom/sources/zork1-r119.zip
+[final-revision]: https://github.com/historicalsource/zork1/tree/87a3b787d166a441cab8d89d87f9a3753d40daa8
