@@ -19,7 +19,7 @@ The following source material is available for importation. Release 119 was sele
 These contain the available source material.
 
 | Release | Serial | Story File        | Zarf Sources | Jason Scott Sources |
-| -------:|:------:|:-----------------:|:------------:| ------------------- |
+| -------:|:------:|:-----------------:|:------------:|:-------------------:|
 |      88 | 840726 |  [r88-s840726-z3] |    [r88-zip] |       [revision-88] |
 |     119 | 880429 | [r119-s880429-z3] |   [r119-zip] |    [final-revision] |
 
