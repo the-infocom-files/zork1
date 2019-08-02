@@ -1224,7 +1224,7 @@ you kill yourself, just as he might have done!" CR>
 					     '<FSET? ,HERE ,NONLANDBIT>)
 					    (ELSE
 					     '<NOT <FSET? ,HERE ,RLANDBIT>>)>
-		                     <TELL "out and disappears">)
+		                     <TELL "out and disappear">)
 	                            (T
 		                     <TELL "to the ground">)>
 	                      <TELL "." CR>)
