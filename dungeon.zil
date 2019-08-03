@@ -1071,7 +1071,7 @@ out of the room.")
 	(SIZE 5)
 	(TEXT
 "---> Frobozz Magic Gunk Company <---|
-	  All-Purpose Gunk")>
+          All-Purpose Gunk")>
 
 <OBJECT PUTTY
 	(IN TUBE)
