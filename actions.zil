@@ -1206,7 +1206,7 @@ glowing serenely">)>
 				    T)>)
 			    (T <TELL
 "The bolt won't turn with your best effort." CR>)>)
-		     (ELSE
+		     (<NOT <EQUAL? ,PRSI <> ,HANDS ,ROOMS>>
 		      <TELL
 "The bolt won't turn using the " D ,PRSI "." CR>)>)
 	      (<VERB? TAKE>
@@ -2547,7 +2547,7 @@ excitement abates." CR>
 						    <REMOVE-CAREFULLY .O>)
 						   (T <RETURN>)>>
 				     <MOVE ,GUNK ,MACHINE>)>)>)
-		      (T
+		      (<NOT <EQUAL? ,PRSI <> ,HANDS ,ROOMS>>
 		       <TELL "It seems that a " D ,PRSI " won't do." CR>)>)>>
 
 <ROUTINE GUNK-FUNCTION ()
