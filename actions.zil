@@ -446,7 +446,7 @@ ZORK: The Great Underground Empire.|" CR>)>
 	
 <GLOBAL RUG-MOVED <>>
 
-<ROUTINE LIVING-ROOM-FCN (RARG "AUX" RUG? TC)
+<ROUTINE LIVING-ROOM-FCN (RARG "AUX" RUG?)
 	<COND (<EQUAL? .RARG ,M-LOOK>
 	       <TELL
 "You are in the living room. There is a doorway to the east">
@@ -1944,7 +1944,7 @@ this fine " D .X " is doing here.\"" CR>
 
 <GLOBAL THIEF-ENGROSSED <>>
 
-<ROUTINE ROBBER-FUNCTION ("OPTIONAL" (MODE <>) "AUX" (FLG <>) X N)
+<ROUTINE ROBBER-FUNCTION ("OPTIONAL" (MODE <>) "AUX" (FLG <>) X)
 	 <COND (<VERB? TELL>
 		<TELL "The thief is a strong, silent type." CR>
 		<SETG P-CONT <>>)
@@ -2135,7 +2135,7 @@ inside." CR>)>>
 "You can't. It's not a very good chalice, is it?" CR>)
 	       (T <DUMB-CONTAINER>)>>
 
-<ROUTINE TREASURE-ROOM-FCN (RARG "AUX" TL)
+<ROUTINE TREASURE-ROOM-FCN (RARG)
 	 <COND (<AND <EQUAL? .RARG ,M-ENTER>
 		     <1? <GET <INT I-THIEF> ,C-ENABLED?>>
 		     <NOT ,DEAD>>
@@ -2148,7 +2148,7 @@ Using passages unknown to you, he rushes to its defense." CR>
 		<FCLEAR ,THIEF ,INVISIBLE>
 		<THIEF-IN-TREASURE>)>>
 
-<ROUTINE THIEF-IN-TREASURE ("AUX" F N)
+<ROUTINE THIEF-IN-TREASURE ("AUX" F)
 	 <SET F <FIRST? ,HERE>>
 	 <COND (<AND .F <NEXT? .F>>
 		<TELL
@@ -2443,7 +2443,7 @@ burn." CR>)
 
 "SUBTITLE COAL MINE"
 
-<ROUTINE BOOM-ROOM (RARG "AUX" (DUMMY? <>) FLAME)
+<ROUTINE BOOM-ROOM (RARG "AUX" (DUMMY? <>))
          <COND (<EQUAL? .RARG ,M-END>
 		<COND (<AND <EQUAL? .RARG ,M-END>
 			    <VERB? LAMP-ON BURN>
@@ -2466,7 +2466,7 @@ I would have thought twice about carrying flaming objects in here." CR>)>
 		       <JIGS-UP "|
       ** BOOOOOOOOOOOM **">)>)>> 
 
-<ROUTINE BAT-D ("OPTIONAL" FOO)
+<ROUTINE BAT-D ()
 	 <COND (<EQUAL? <LOC ,GARLIC> ,WINNER ,HERE>
 		<TELL
 "In the corner of the room on the ceiling is a large vampire bat who
@@ -2957,7 +2957,7 @@ although you have succeeded in opening it.">
 		<BAD-EGG>
 		<CRLF>)>>
 
-<ROUTINE BAD-EGG ("AUX" L)
+<ROUTINE BAD-EGG ()
 	 <COND (<IN? ,CANARY ,EGG>
 		<TELL " " <GETP ,BROKEN-CANARY ,P?FDESC>>)
 	       (T <REMOVE-CAREFULLY ,BROKEN-CANARY>)>
@@ -3110,7 +3110,7 @@ down, the songbird flies away." CR>
 
 "MORE RANDOMNESS"
 
-<ROUTINE DEAD-FUNCTION ("OPTIONAL" (FOO <>) "AUX" M)
+<ROUTINE DEAD-FUNCTION ("OPTIONAL" (FOO <>))
 	 <COND (<VERB? WALK>
 		<COND (<AND <EQUAL? ,HERE ,TIMBER-ROOM>
 			    <EQUAL? ,PRSO ,P?WEST>>
@@ -3474,7 +3474,7 @@ property, which is normally 0"
 	 <WINNER-RESULT .DEF .RES .OD>>
 
 <ROUTINE HERO-BLOW ("AUX" OO VILLAIN (OUT? <>) DWEAPON ATT DEF (CNT 0)
-		    OA OD TBL RES NWEAPON (LEN <GET ,VILLAINS 0>))
+		    OA OD TBL RES (LEN <GET ,VILLAINS 0>))
 	 <REPEAT ()
 		 <SET CNT <+ .CNT 1>>
 		 <COND (<EQUAL? .CNT .LEN> <RETURN>)>
@@ -3887,7 +3887,7 @@ livelihood.">>>>
 
 "THIEF demon"
 
-<ROUTINE I-THIEF ("AUX" (RM <LOC ,THIEF>) ROBJ HERE? (ONCE <>) (FLG <>))
+<ROUTINE I-THIEF ("AUX" (RM <LOC ,THIEF>) HERE? (ONCE <>) (FLG <>))
    <PROG ()
      <COND (<SET HERE? <NOT <FSET? ,THIEF ,INVISIBLE>>>
 	    <SET RM <LOC ,THIEF>>)>
