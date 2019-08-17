@@ -2169,7 +2169,14 @@ suddenly vanish." CR CR>)>
 	       (<VERB? MUNG>
 		<TELL "You can't seem to damage the door." CR>)
 	       (<VERB? LOOK-BEHIND>
-		<TELL "It won't open." CR>)>>
+		<TELL "It won't open." CR>)
+	       (<VERB? READ>
+		<COND (<EQUAL? ,HERE ,LIVING-ROOM>
+		       <TELL
+"The engravings translate to \"This space intentionally left blank.\"">)
+		      (<TELL
+"There is no writing on this side.">)>
+		<CRLF>)>>
 
 \
 
