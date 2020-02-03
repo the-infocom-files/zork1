@@ -1,16 +1,4 @@
-*This page is currently under construction. Last updated June 29, 2019 by Alex Proudfoot.*
-
-----
-
-Zork I was Infocom's first IF game and was first released in 1980.
-
-Further information on Zork I:
-
-* [Wikipedia](https://en.wikipedia.org/wiki/Zork_I)
-* [The Digital Antiquarian](https://www.filfre.net/2012/01/selling-zork/)
-* [The Interactive Fiction Database](https://ifdb.tads.org/viewgame?id=0dbnusxunq7fw5ro)
-* [The Infocom Gallery](http://gallery.guetech.org/zork1/zork1.html)
-* [IFWiki](http://www.ifwiki.org/index.php/Zork_I)
+# Zork I: The Great Underground Empire
 
 The following source material is available for importation. Release 119 was selected from the Zarf Sources.
 
@@ -20,8 +8,27 @@ These contain the available source material.
 
 | Release | Serial | Story File        | Zarf Sources | Jason Scott Sources |
 | -------:|:------:|:-----------------:|:------------:|:-------------------:|
+|       5 |   -    |   [r5-sXXXXXX-z1] |      -       |          -          |
+|      15 | UG3AU5 |  [r15-sUG3AU5-z2] |      -       |          -          |
+|      23 | 820428 |  [r23-s820428-z3] |      -       |          -          |
+|      25 | 820515 |  [r25-s820515-z3] |      -       |          -          |
+|      26 | 820803 |  [r26-s820803-z3] |      -       |          -          |
+|      28 | 821013 |  [r28-s821013-z3] |      -       |          -          |
+|      30 | 830330 |  [r30-s830330-z3] |      -       |          -          |
+|      75 | 830929 |  [r75-s830929-z3] |      -       |          -          |
+|      76 | 840509 |  [r76-s840509.z3] |      -       |          -          |
 |      88 | 840726 |  [r88-s840726-z3] |    [r88-zip] |       [revision-88] |
-|     119 | 880429 | [r119-s880429-z3] |   [r119-zip] |    [final-revision] |
+|   *119* |*880429*|*[r119-s880429-z3]*|  *[r119-zip]*|   *[final-revision]*|
+
+[r5-sXXXXXX-z1]: https://eblong.com/infocom/gamefiles/zork1-r5-sXXXXXX.z1
+[r15-sUG3AU5-z2]: https://eblong.com/infocom/gamefiles/zork1-r15-sUG3AU5.z2
+[r23-s820428-z3]: https://eblong.com/infocom/gamefiles/zork1-r23-s820428.z3
+[r25-s820515-z3]: https://eblong.com/infocom/gamefiles/zork1-r25-s820515.z3
+[r26-s820803-z3]: https://eblong.com/infocom/gamefiles/zork1-r26-s820803.z3
+[r28-s821013-z3]: https://eblong.com/infocom/gamefiles/zork1-r28-s821013.z3
+[r30-s830330-z3]: https://eblong.com/infocom/gamefiles/zork1-r30-s830330.z3
+[r75-s830929-z3]: https://eblong.com/infocom/gamefiles/zork1-r75-s830929.z3
+[r76-s840509.z3]: https://eblong.com/infocom/gamefiles/zork1-r76-s840509.z3
 
 [r88-s840726-z3]: https://eblong.com/infocom/gamefiles/zork1-r88-s840726.z3
 [r88-zip]: https://eblong.com/infocom/sources/zork1-r88.zip
