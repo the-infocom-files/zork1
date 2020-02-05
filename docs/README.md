@@ -65,3 +65,5 @@ Zarf's Obsessively Complete Infocom Catalog holds a copy of the game file for th
 ## Future Development
 
 Release 119 has been selected as the starting point for future development.
+
+Compilation issues are recorded [here](https://github.com/the-infocom-files/zork1/issues/2).
