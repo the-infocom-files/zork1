@@ -1,13 +1,28 @@
 # Zork I: The Great Underground Empire
 
+## The Game
+
+Zork I is a 1980 interactive fiction game written by Marc Blank, Dave Lebling, Bruce Daniels and Tim Anderson and published by Infocom.
+
+The following sources provide further information on Zork I.
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Zork_I)
+* [The Digital Antiquarian](https://www.filfre.net/2012/01/selling-zork/)
+* [The Interactive Fiction Database](https://ifdb.tads.org/viewgame?id=0dbnusxunq7fw5ro)
+* [The Infocom Gallery](http://gallery.guetech.org/zork1/zork1.html)
+* [IFWiki](http://www.ifwiki.org/index.php/Zork_I)
+* [Zork I Specifications](http://www.infocom-if.org/games/zork1/zork1specs.html)
+
 ## Public Release History
 
-Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every release in the public release history documented on [www.infocom-if.org](http://www.infocom-if.org/games/zork1/zork1specs.html). It also holds the source files for the final public release. These are the same as the revision 88 sources in the matching Historical Source repository.
+Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every public release of Zork I. It also holds the source files for the final public release. These are the same as the revision 88 sources in the matching Historical Source repository.
 
 | Release | Serial     | Story File             | Zarf Sources    | Historical Sources  |
 | -------:|:----------:|:----------------------:|:---------------:|:-------------------:|
+|      _2_|    _AS000C_| _[zork1-r2-sAS000C.z1]_|              _-_|                  _-_|
 |       5 |          - |  [zork1-r5-sXXXXXX.z1] |               - |                   - |
 |      15 |     UG3AU5 | [zork1-r15-sUG3AU5.z2] |               - |                   - |
+|     _20_|         _-_|_[zork1-r20-sXXXXXX.z3]_|              _-_|                  _-_|
 |      23 |     820428 | [zork1-r23-s820428.z3] |               - |                   - |
 |      25 |     820515 | [zork1-r25-s820515.z3] |               - |                   - |
 |      26 |     820803 | [zork1-r26-s820803.z3] |               - |                   - |
@@ -17,8 +32,10 @@ Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for e
 |      76 |     840509 | [zork1-r76-s840509.z3] |               - |                   - |
 |      88 |     840726 | [zork1-r88-s840726.z3] | [zork1-r88.zip] |       [revision 88] |
 
+[zork1-r2-sAS000C.z1]: https://eblong.com/infocom/gamefiles/zork1-r2-sAS000C.z1
 [zork1-r5-sXXXXXX.z1]: https://eblong.com/infocom/gamefiles/zork1-r5-sXXXXXX.z1
 [zork1-r15-sUG3AU5.z2]: https://eblong.com/infocom/gamefiles/zork1-r15-sUG3AU5.z2
+[zork1-r20-sXXXXXX.z3]: https://eblong.com/infocom/gamefiles/zork1-r20-sXXXXXX.z3
 [zork1-r23-s820428.z3]: https://eblong.com/infocom/gamefiles/zork1-r23-s820428.z3
 [zork1-r25-s820515.z3]: https://eblong.com/infocom/gamefiles/zork1-r25-s820515.z3
 [zork1-r26-s820803.z3]: https://eblong.com/infocom/gamefiles/zork1-r26-s820803.z3
@@ -31,6 +48,7 @@ Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for e
 [zork1-r88.zip]: https://eblong.com/infocom/sources/zork1-r88.zip
 [revision 88]: https://github.com/historicalsource/zork1/tree/34cc828c4fa3b5e2581ea24c43bb8acb386d25d0
 
+_Note: releases 2 and 20 are not listed on the [Zork I Specifications](http://www.infocom-if.org/games/zork1/zork1specs.html) page._
 
 ## Final Development Releases
 
@@ -44,6 +62,6 @@ Zarf's Obsessively Complete Infocom Catalog holds a copy of the game file for th
 [zork1-r119.zip]: https://eblong.com/infocom/sources/zork1-r119.zip
 [final revision]: https://github.com/historicalsource/zork1/tree/87a3b787d166a441cab8d89d87f9a3753d40daa8
 
-## Selected Release
+## Future Development
 
-Release 119 was selected as the starting point for development.
+Release 119 has been selected as the starting point for future development.
