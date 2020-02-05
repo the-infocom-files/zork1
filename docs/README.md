@@ -13,6 +13,11 @@ The following sources provide further information on Zork I.
 * [IFWiki](http://www.ifwiki.org/index.php/Zork_I)
 * [Zork I Specifications](http://www.infocom-if.org/games/zork1/zork1specs.html)
 
+## Resources
+
+* [Zork I on The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/#zork1)
+* [Zork I on Historical Source (GitHub)](https://github.com/historicalsource/zork1)
+
 ## Public Release History
 
 Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every public release of Zork I. It also holds the source files for the final public release. These are the same as the revision 88 sources in the matching Historical Source repository.
