@@ -19,10 +19,10 @@ Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for e
 
 | Release | Serial     | Story File             | Zarf Sources    | Historical Sources  |
 | -------:|:----------:|:----------------------:|:---------------:|:-------------------:|
-|      _2_|    _AS000C_| _[zork1-r2-sAS000C.z1]_|              _-_|                  _-_|
+|       2 |     AS000C |  [zork1-r2-sAS000C.z1] |               - |                   - |
 |       5 |          - |  [zork1-r5-sXXXXXX.z1] |               - |                   - |
 |      15 |     UG3AU5 | [zork1-r15-sUG3AU5.z2] |               - |                   - |
-|     _20_|         _-_|_[zork1-r20-sXXXXXX.z3]_|              _-_|                  _-_|
+|      20 |          - | [zork1-r20-sXXXXXX.z3] |               - |                   - |
 |      23 |     820428 | [zork1-r23-s820428.z3] |               - |                   - |
 |      25 |     820515 | [zork1-r25-s820515.z3] |               - |                   - |
 |      26 |     820803 | [zork1-r26-s820803.z3] |               - |                   - |
