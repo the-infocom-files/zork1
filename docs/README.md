@@ -55,7 +55,7 @@ Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for e
 
 _Note: releases 2 and 20 are not listed on the [Zork I Specifications](http://www.infocom-if.org/games/zork1/zork1specs.html) page._
 
-## Final Development Releases
+## Final Development Release
 
 Zarf's Obsessively Complete Infocom Catalog holds a copy of the game file for the final development release. It also holds the source files for that release. These are the same as the final revision sources in the matching Historical Source repository.
 
