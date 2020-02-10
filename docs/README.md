@@ -16,10 +16,11 @@ The following sources provide further information on Zork I.
 
 * [Zork I on The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/#zork1)
 * [Zork I on Historical Source (GitHub)](https://github.com/historicalsource/zork1)
+* [Infocom Fact Sheet](http://pdd.if-legends.org/infocom/fact-sheet.txt)
 
 ## Version History
 
-Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every version of Zork I listed in the [Infocom Fact Sheet](http://pdd.if-legends.org/infocom/fact-sheet.txt). It also holds the source files for the final public release (88/840726) and the final development version (119/880429). These are the same as the revision 88 and final revision sources in the matching Historical Source repository.
+Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every version of Zork I listed in the Infocom Fact Sheet. It also holds the source files for the final public release (88/840726) and the final development version (119/880429). These are the same as the revision 88 and final revision sources in the matching Historical Source repository.
 
 | Release | Serial | Story File              | Zarf Sources     | Historical Sources |
 | -------:|:------:|:-----------------------:|:----------------:|:------------------:|
@@ -59,6 +60,6 @@ Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for e
 
 ## Future Development
 
-Release 119 has been selected as the starting point for future development.
+Version 119/880429 has been selected as the starting point for future development.
 
 Compilation issues are recorded [here](https://github.com/the-infocom-files/zork1/issues/2).
