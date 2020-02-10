@@ -20,7 +20,7 @@ The following sources provide further information on Zork I.
 
 ## Version History
 
-Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every version of Zork I listed in the Infocom Fact Sheet. It also holds the source files for the final public release (88/840726) and the final development version (119/880429). These are the same as the revision 88 and final revision sources in the matching Historical Source repository.
+Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Zork I listed in the Infocom Fact Sheet. It also holds the source files for versions 88/840726 and 119/880429.
 
 | Release | Serial | Story File              | Zarf Sources     | Historical Sources |
 | -------:|:------:|:-----------------------:|:----------------:|:------------------:|
