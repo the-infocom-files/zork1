@@ -907,7 +907,7 @@ Zorkers were obscure." )>
 	(SYNONYM DOOR LETTERING WRITING)
 	(ADJECTIVE WOODEN GOTHIC STRANGE WEST)
 	(DESC "wooden door")
-	(FLAGS READBIT DOORBIT NDESCBIT TRANSBIT)
+	(FLAGS DOORBIT NDESCBIT TRANSBIT)
 	(ACTION FRONT-DOOR-FCN)
 	(TEXT
 "The engravings translate to \"This space intentionally left blank.\"")>
@@ -1747,7 +1747,8 @@ cyclops sized).")
       (WEST TO CYCLOPS-ROOM)
       (IN TO CYCLOPS-ROOM)
       (EAST TO LIVING-ROOM)
-      (FLAGS RLANDBIT)>
+      (FLAGS RLANDBIT)
+      (GLOBAL WOODEN-DOOR)>
 
 <ROOM TREASURE-ROOM
       (IN ROOMS)
